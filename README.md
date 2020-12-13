@@ -12,7 +12,7 @@
 ## Installation
 
 ```shell
-go get github.com/semihalev/sdns
+go get github.com/axpwx/sdns
 ```
 
 #### Pre-build Binaries
