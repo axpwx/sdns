@@ -10,10 +10,10 @@ import (
 	"runtime"
 
 	"github.com/semihalev/log"
-	"github.com/semihalev/sdns/api"
-	"github.com/semihalev/sdns/config"
-	"github.com/semihalev/sdns/middleware"
-	"github.com/semihalev/sdns/server"
+	"github.com/axpwx/sdns/api"
+	"github.com/axpwx/sdns/config"
+	"github.com/axpwx/sdns/middleware"
+	"github.com/axpwx/sdns/server"
 )
 
 const version = "1.1.6"
